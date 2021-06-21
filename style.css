@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.weatherform{
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 600px;
+    width: 100%;
+    display: flex;
+    background-color: dimgrey;
+    align-items: center;
+}
+.container{
+    display: flex;
+    width: 80%;
+    max-width: 300px;
+    height: 350px;
+    background-color: rgb(9, 213, 240);
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+#form{
+    
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 0px;
+}
+#today {
+    margin-left: 400px;
+
+}
